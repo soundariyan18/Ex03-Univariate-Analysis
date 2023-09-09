@@ -84,16 +84,30 @@ plt.xlabel('SEPALLENGTH')
 plt.show()
 
 output:
+```
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155508.png)
 
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155539.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155553.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155604.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155657.png)
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155726.png)
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155811.png)
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155907.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155918.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155931.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155944.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20160001.png)
+
+![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20160012.png)
+```
+result:
+
+The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
