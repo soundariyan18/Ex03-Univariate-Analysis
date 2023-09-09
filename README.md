@@ -85,8 +85,8 @@ plt.show()
 
 
 
-OUTPUT:
 
+OUTPUT:
 ```
 df.head()
 
@@ -135,6 +135,6 @@ sepal_length
 
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20160012.png)
 ```
-result:
+RESULT:
 
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
