@@ -85,26 +85,49 @@ plt.show()
 
 output:
 ```
+df.head()
+
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155508.png)
+
+df.tail()
 
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155539.png)
 
+df.nunique()
+
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155553.png)
 
+df.iloc()
+
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155604.png)
+
+
+Sepal
+
 
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155657.png)
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155726.png)
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155811.png)
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155907.png)
 
+
+Countplot
+
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155918.png)
+
+dfv
 
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155931.png)
 
+dfs
+
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155944.png)
 
+petal_length
+
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20160001.png)
+
+sepal_length
 
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20160012.png)
 ```
