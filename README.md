@@ -83,7 +83,10 @@ plt.plot(dfc['sepal_length'],np.zeros_like(dfc['sepal_length']),'-')
 plt.xlabel('SEPALLENGTH')
 plt.show()
 
-output:
+
+
+OUTPUT:
+
 ```
 df.head()
 
@@ -109,6 +112,7 @@ Sepal
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155726.png)
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155811.png)
 ![MODEL](https://github.com/soundariyan18/Ex03-Univariate-Analysis/blob/main/Screenshot%202023-09-09%20155907.png)
+
 
 
 Countplot
